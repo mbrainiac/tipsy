@@ -1,0 +1,23 @@
+{
+  "name": "tipsy",
+  "version": "0.1.7",
+  "main": [
+    "src/javascripts/jquery.tipsy.js",
+    "src/stylesheets/tipsy.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "docs",
+    "test",
+    "*.md",
+    "AUTHORS.txt",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "keywords": [
+    "jquery",
+    "javascript",
+    "tipsy"
+  ]
+}
