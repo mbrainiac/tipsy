@@ -1,6 +1,6 @@
 {
   "name": "tipsy",
-  "version": "1.0.0a",
+  "version": "1.0.0",
   "main": [
     "src/javascripts/jquery.tipsy.js",
     "src/stylesheets/tipsy.css"
